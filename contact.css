@@ -1,0 +1,23 @@
+body {
+    background: #FFD9D9;
+    font-family: Montserrat, "sans-serif";
+    display: flex;
+    justify-content: center;
+    color: #303030;
+}
+
+.contactez-nous {
+    width: 700px;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 0 50px 0 50 px;
+    background: white;
+}
+
+.contactez-nous > h1 {
+    font-weight: 500;
+}
+
+.contactez-nous > p {
+    font-weight: 300;
+}
