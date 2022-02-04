@@ -232,3 +232,11 @@ body {
             align-items: center;
 
           }
+          .menu-footer ul{
+              display: flex;
+              justify-content: center;
+          }
+          .menu-footer li{
+              list-style:none;
+              display: inline;
+          }
